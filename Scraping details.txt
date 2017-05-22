@@ -1,0 +1,4 @@
+This document briefs about the data scraped and the methodology.
+
+The entire cricket data has been scraped for the website http://www.cricket-stats.net/genp/captains.shtml
+I have used as selenium to scrape the data and some regular expression techniques and pandas library to convert the html data to a tabular form in the form of data frames. A single data frame has been created for each team and for each of the three formats, namely, tests, One day internationals and T20s. Each data frame has been written in its own csv file which can be accessed by the path data/team_name/format.csv.

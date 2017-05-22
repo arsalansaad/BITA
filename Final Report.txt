@@ -1,0 +1,6 @@
+After analysing the data, I have come to the conclusion that there are no hard bound rules to predict whether a change in captaincy impacts a team positively. Barring a few outliers, the general trend has been more of a zigzag one. However, study suggests that there is a gradual increase in the win percentages of almost all teams with the passage of time. This can be attributed to the fact that more teams get the opportunity to play in international circuits and players get more exposure due to the emergence of domestic leagues such as Indian Premier League, Australian Big Bash, etc. 
+In the analysis, I have not taken into account players who have captained for less than five matches as they don’t contribute to a clear picture and rather mess up with the analysis.
+The programming language used here is python as it is both popular and easy to work with. The libraries used are:
+•	Selenium, a web scraper
+•	Pandas, a data manipulation and tabulation library
+•	Matplotlib, a data visualisation and plotter library
